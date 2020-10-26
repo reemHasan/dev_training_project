@@ -6,3 +6,15 @@ An architecture in which the user's PC (the client) is the requesting machine an
 
 #### OSI – Open Systems Interconnection:
         “est un modèle de communications entre ordinateurs. Il décrit les fonctionnalités nécessaires à la communication et l’organisation de ces fonctions” 
+#### WAMP is an acronym that stands for Windows, Apache, MySQL, and PHP. It’s a software stack which means installing WAMP installs Apache, MySQL, and PHP on your operating system (Windows in the case of WAMP)
+    “W” stands for Windows, there’s also LAMP (for Linux) and MAMP (for Mac).
+
+    “A” stands for Apache. Apache is the server software that is responsible for serving web pages. When you request a page to be seen by you, Apache grants your request over HTTP and shows you the site.
+
+    “M” stands for MySQL. MySQL’s job is to be the database management system for your server. It stores all of the relevant information like your site’s content, user profiles, etc.
+
+    “P” stands for PHP. It’s the programming language that was used to write WordPress. It acts like glue for this whole software stack. PHP is running in conjunction with Apache and communicating with MySQL.
+
+        ######  WordPress is only one of the site builders and content management systems users can download and install for free, but it has unique features that make it the most popular content management system in use today. WordPress tops the list of most often used site building packages in the world. 
+        But, both Joomla and Drupal require a certain level of technical know-how and familiarity with HTML CSS and the programming language PHP. WordPress allows experienced users to work at a certain level of technical know-how and familiarity with HTML CSS and the programming language PH, —but, it also includes features for beginners, so that they can set up a site quickly with no knowledge of code or programming.
+
