@@ -1,5 +1,9 @@
-<html>
+<!doctype html>
+<html lang="en">
 <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=yes">
     <link rel="stylesheet" href="style.css">
     <title>Group3 Reem - Pierre</title>
 </head>
@@ -8,10 +12,9 @@
         <img class="imgLogo" src="./images/nlp_image.jpg" alt="NLP image">
     </div>
     <br>
-    <p  class="textStyle"> This page recive text from user, analyse it by an external API of NLP and sending the POS and NER, extracted from inserted text</p>
-    <br>
-    <br>
-    <br>
+    <p  class="textStyle"> This page recive text from user, analyse it by an external API of NLP and sending the POS and NER, extracted from the inserted text</p>
+    <hr>
+    <hr>
    <div id="box">
    <input type="text" id="textboxid" placeholder="Enter the text you want to analyse here" autocapitalize="off" />
    <br>
@@ -26,5 +29,6 @@
         document.getElementById("outputtext").innerHTML = "Entered text is: "+ t;
     }
     </script>
+    <noscript>Sorry, your browser does not support JavaScript!</noscript>
 </body>
 </html>
