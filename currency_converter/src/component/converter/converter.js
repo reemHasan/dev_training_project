@@ -9,12 +9,14 @@ class Converter extends React.Component {
     super(props);
     this.state = {
       result: null,
+      oneUnit:null,
       fromCurrency: "USD",
       toCurrency: "GBP",
       amount: 1,
       currencies: []
     };
   }
+  // initializ the list of currencies
   componentDidMount() {
     axios
       .get("https://api.exchangeratesapi.io/latest")
@@ -29,7 +31,7 @@ class Converter extends React.Component {
         console.log("oppps", err);
       });
   }
-
+// catch the event of clicking the button Convert
   convertHandler = () => {
     if (this.state.fromCurrency !== this.state.toCurrency) {
       axios
@@ -43,11 +45,23 @@ class Converter extends React.Component {
             this.state.amount * response.data.rates[this.state.toCurrency];
           this.setState({ result: result.toFixed(5) });
         })
+        axios
+        .get(
+          `https://api.exchangeratesapi.io/latest?base=${
+            this.state.fromCurrency
+          }&symbols=${this.state.toCurrency}`
+        )
+        // get the rate for one unit of converted currency
+        .then(response => {
+          const oneunit =response.data.rates[this.state.toCurrency];
+          this.setState({ oneUnit: oneunit.toFixed(5) });
+        })
         .catch(error => {
           console.log("Opps", error.message);
         });
+        
     } else {
-      this.setState({ result: "You cant convert the same currency!" });
+      this.setState({ result: "You can not convert the same currency!" });
     }
   };
 
@@ -97,7 +111,12 @@ class Converter extends React.Component {
             ))}
           </select>
           <Button onClick={this.convertHandler}>Convert</Button>
-          { <h3>The result of converted amount is <span>{this.state.result}</span></h3>}
+          <div>
+          <span> </span>
+          {this.state.result && <h5> 1 {this.state.fromCurrency} is equal to {this.state.oneUnit} {this.state.toCurrency}</h5>}
+          <br />
+          {this.state.result && <h3>The result of converted amount is <span>{this.state.result}</span></h3>}
+          </div>
         </div>
       </div>
       </Container>
