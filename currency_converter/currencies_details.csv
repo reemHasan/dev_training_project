@@ -1,0 +1,61 @@
+Country Name,Currency Name,Currency Symbol,ISO code,Fractional unit,Country Code
+Alderney,British pound,£,GBP,Penny,
+Australia,Australian dollar,$,AUD,Cent,
+Bonaire,United States dollar,$,USD,Cent,
+Brazil,Brazilian real,R$,BRL,Centavo,br
+British Indian Ocean Territory,United States dollar,$,USD,Cent,io
+British Virgin Islands,United States dollar,$,USD,Cent,
+Bulgaria,Bulgarian lev,лв,BGN,Stotinka,bg
+Canada,Canadian dollar,$,CAD,Cent,ca
+China,Chinese yuan,¥ or 元,CNY,Fen,cn
+Cocos (Keeling) Islands,Australian dollar,$,AUD,Cent,cc
+Cook Islands,New Zealand dollar,$,NZD,Cent,ck
+Croatia,Croatian kuna,kn,HRK,Lipa,
+Czech Republic,Czech koruna,Kč,CZK,Haléř,cz
+Denmark,Danish krone,kr,DKK,Øre,dk
+East Timor,United States dollar,$,USD,Cent,tp
+Ecuador,United States dollar,$,USD,Cent,ec
+El Salvador,United States dollar,$,USD,Cent,sv
+Faroe Islands,Danish krone,kr,DKK,Øre,fo
+Guernsey,British pound,£,GBP,Penny,gg
+Hong Kong,Hong Kong dollar,$,HKD,Cent,hk
+Hungary,Hungarian forint,Ft,HUF,Fillér,hu
+Iceland,Icelandic króna,kr,ISK,Eyrir,is
+India,Indian rupee,₹,INR,Paisa,in
+Indonesia,Indonesian rupiah,Rp,IDR,Sen,id
+Isle of Man,British pound,£,GBP,Penny,im
+Israel,Israeli new shekel,₪,ILS,Agora,il
+Japan,Japanese yen,¥,JPY,Sen,jp
+Jersey,British pound,£,GBP,Penny,je
+Kiribati,Australian dollar,$,AUD,Cent,ki
+"Korea, South",South Korean won,₩,KRW,Jeon,
+Liechtenstein,Swiss franc,Fr,CHF,Rappen,li
+Malaysia,Malaysian ringgit,RM,MYR,Sen,my
+Marshall Islands,United States dollar,$,USD,Cent,mh
+Mexico,Mexican peso,$,MXN,Centavo,mx
+Micronesia,United States dollar,$,USD,Cent,
+Nauru,Australian dollar,$,AUD,Cent,nr
+New Zealand,New Zealand dollar,$,NZD,Cent,nz
+Niue,New Zealand dollar,$,NZD,Cent,nu
+Northern Cyprus,Turkish lira,,TRY,Kuruş,
+Norway,Norwegian krone,kr,NOK,Øre,no
+Palau,United States dollar,$,USD,Cent,pw
+Palestine,Israeli new shekel,₪,ILS,Agora,
+Philippines,Philippine peso,₱,PHP,Centavo,ph
+Pitcairn Islands,New Zealand dollar,$,NZD,Cent,
+Poland,Polish złoty,zł,PLN,Grosz,pl
+Romania,Romanian leu,lei,RON,Ban,ro
+Russia,Russian ruble,,RUB,Kopek,
+Saba,United States dollar,$,USD,Cent,
+Sint Eustatius,United States dollar,$,USD,Cent,
+South Africa,South African rand,R,ZAR,Cent,za
+South Georgia and the South Sandwich Islands,British pound,£,GBP,Penny,gs
+South Ossetia,Russian ruble,,RUB,Kopek,
+Sweden,Swedish krona,kr,SEK,Öre,se
+Switzerland,Swiss franc,Fr,CHF,Rappen,ch
+Thailand,Thai baht,฿,THB,Satang,th
+Turkey,Turkish lira,,TRY,Kuruş,tr
+Turks and Caicos Islands,United States dollar,$,USD,Cent,tc
+Tuvalu,Australian dollar,$,AUD,Cent,tv
+United Kingdom,British pound,£,GBP,Penny,gb
+United States,United States dollar,$,USD,Cent,us
