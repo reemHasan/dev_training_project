@@ -17,7 +17,7 @@ class App extends Component {
       <Route exact path="/" component={Converter} />
       <Route path="/about" component={About} />
       <Route path="/currenciesList" component={CurrenciesList} />
-      <Route path="/productCompare" Component={Products} />
+      <Route path="/productCompare" component={Products} />
     </Router>
      </>
     );
