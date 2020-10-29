@@ -44,9 +44,3 @@ h1{
 
 p.copyright
   { margin-top: 30%; }
-
-reactBootStrap.Table{
-    margin-top: 30%; 
-    align-items: center;
-    justify-content: center;
-  }
