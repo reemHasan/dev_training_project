@@ -15,7 +15,7 @@
 
 
 .button {
-  padding: 5px ;
+  padding: 5% ;
   margin:10px 10px;
   border-radius: 5px;
   background: rgb(11, 170, 59);
@@ -31,3 +31,22 @@
   font-size: 30px;
 }
 
+h5{
+  color:#004000;
+  text-align: center;
+}
+
+h1{
+  color:#008000;
+  font-style: italic;
+  padding:10px;
+}
+
+p.copyright
+  { margin-top: 30%; }
+
+reactBootStrap.Table{
+    margin-top: 30%; 
+    align-items: center;
+    justify-content: center;
+  }
