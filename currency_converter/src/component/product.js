@@ -1,7 +1,7 @@
 import React from "react";
 import axios from "axios";
 
-import ProductPrice from "./ProductPrice"
+import ProductPrice from "./productPrice"
 
 class Product extends React.Component {
 

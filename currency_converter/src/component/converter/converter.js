@@ -3,8 +3,6 @@ import PropTypes from "prop-types";
 import axios from "axios";
 import converter from "./converter.css";
 import { Button, Container } from 'reactstrap'
-import products from "../../data/products.json"
-import Product from "../product/Product"
 import Select from 'react-select'
 import {FormControl,Form,Col} from 'react-bootstrap'
 
@@ -12,8 +10,6 @@ class Converter extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-      error: null,
-      isLoaded: false,
       result: null,
       oneUnit:null,
       fromCurrency: "USD",
@@ -31,7 +27,7 @@ class Converter extends React.Component {
         for (const key in response.data.rates) {
           currencyAr.push({value:key});
         }
-        this.setState({ currencies: currencyAr });
+        this.setState({ currencies: currencyAr, pCurrencies: response.data.rates});
       })
       .catch(err => {
         console.log("oppps", err);

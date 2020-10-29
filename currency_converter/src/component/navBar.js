@@ -13,6 +13,7 @@ return (
       <Nav className="mr-auto">
         <Nav.Link href="/">Home</Nav.Link>
         <Nav.Link href="/currenciesList">Currencies</Nav.Link>
+        <Nav.Link href="/productCompare">Compare Products</Nav.Link>
         <Nav.Link href="/about">About</Nav.Link>
       </Nav>
     </Navbar.Collapse>
