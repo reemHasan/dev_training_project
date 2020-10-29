@@ -25,7 +25,7 @@ class Converter extends React.Component {
         for (const key in response.data.rates) {
           currencyAr.push({value:key});
         }
-        this.setState({ currencies: currencyAr });
+        this.setState({ currencies: currencyAr, pCurrencies: response.data.rates});
       })
       .catch(err => {
         console.log("oppps", err);
@@ -64,7 +64,6 @@ class Converter extends React.Component {
       this.setState({ result: "You can not convert the same currency!" });
     }
   };
-
   selectHandler = event => {
     if (event.target.name === "from") {
       this.setState({ fromCurrency: event.target.value });
