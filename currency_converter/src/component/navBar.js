@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 //import {Navbar,Nav,Form,Button} from 'reactstrap'
-import {FormControl,NavDropdown,Navbar,Nav,Form,Button} from 'react-bootstrap'
+import {Navbar,Nav} from 'react-bootstrap'
 
 class NavigatBar extends Component {
 render() {
