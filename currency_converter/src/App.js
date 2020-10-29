@@ -5,8 +5,7 @@ import Converter from "./component/converter";
 import About from "./component/about";
 import CurrenciesList from "./component/currenciesList";
 import NavigatBar from "./component/navBar";
-import { BrowserRouter as Router, Route, Link } from "react-router-dom";
-import {FormControl,NavDropdown,Navbar,Nav,Form,Button} from 'react-bootstrap'
+import { BrowserRouter as Router, Route} from "react-router-dom";
 class App extends Component {
   render() {
     return (
