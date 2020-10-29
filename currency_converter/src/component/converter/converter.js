@@ -1,10 +1,8 @@
 import React from "react";
-import PropTypes from "prop-types";
 import axios from "axios";
-import converter from "./converter.css";
-import { Button, Container } from 'reactstrap'
-import Select from 'react-select'
-import {FormControl,Form,Col} from 'react-bootstrap'
+import "./converter.css";
+import { Button} from 'reactstrap'
+import {FormControl,Form} from 'react-bootstrap'
 
 class Converter extends React.Component {
   constructor(props) {
