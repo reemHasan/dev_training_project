@@ -1,0 +1,482 @@
+[
+    {
+        "Country_Name":"Alderney",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Australia",
+        "Currency_Name":"Australian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"AUD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Bonaire",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Brazil",
+        "Currency_Name":"Brazilian real",
+        "Currency_Symbol":"R$",
+        "ISO_code":"BRL",
+        "Fractional_unit":"Centavo",
+        "Country_Code":"br"
+    },
+    {
+        "Country_Name":"British Indian Ocean Territory",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"io"
+    },
+    {
+        "Country_Name":"British Virgin Islands",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Bulgaria",
+        "Currency_Name":"Bulgarian lev",
+        "Currency_Symbol":"??",
+        "ISO_code":"BGN",
+        "Fractional_unit":"Stotinka",
+        "Country_Code":"bg"
+    },
+    {
+        "Country_Name":"Canada",
+        "Currency_Name":"Canadian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"CAD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"ca"
+    },
+    {
+        "Country_Name":"China",
+        "Currency_Name":"Chinese yuan",
+        "Currency_Symbol":"¥ or ?",
+        "ISO_code":"CNY",
+        "Fractional_unit":"Fen",
+        "Country_Code":"cn"
+    },
+    {
+        "Country_Name":"Cocos (Keeling) Islands",
+        "Currency_Name":"Australian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"AUD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"cc"
+    },
+    {
+        "Country_Name":"Cook Islands",
+        "Currency_Name":"New Zealand dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"NZD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"ck"
+    },
+    {
+        "Country_Name":"Croatia",
+        "Currency_Name":"Croatian kuna",
+        "Currency_Symbol":"kn",
+        "ISO_code":"HRK",
+        "Fractional_unit":"Lipa",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Czech Republic",
+        "Currency_Name":"Czech koruna",
+        "Currency_Symbol":"K?",
+        "ISO_code":"CZK",
+        "Fractional_unit":"Halé?",
+        "Country_Code":"cz"
+    },
+    {
+        "Country_Name":"Denmark",
+        "Currency_Name":"Danish krone",
+        "Currency_Symbol":"kr",
+        "ISO_code":"DKK",
+        "Fractional_unit":"Øre",
+        "Country_Code":"dk"
+    },
+    {
+        "Country_Name":"East Timor",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"tp"
+    },
+    {
+        "Country_Name":"Ecuador",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"ec"
+    },
+    {
+        "Country_Name":"El Salvador",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"sv"
+    },
+    {
+        "Country_Name":"Faroe Islands",
+        "Currency_Name":"Danish krone",
+        "Currency_Symbol":"kr",
+        "ISO_code":"DKK",
+        "Fractional_unit":"Øre",
+        "Country_Code":"fo"
+    },
+    {
+        "Country_Name":"Guernsey",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":"gg"
+    },
+    {
+        "Country_Name":"Hong Kong",
+        "Currency_Name":"Hong Kong dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"HKD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"hk"
+    },
+    {
+        "Country_Name":"Hungary",
+        "Currency_Name":"Hungarian forint",
+        "Currency_Symbol":"Ft",
+        "ISO_code":"HUF",
+        "Fractional_unit":"Fillér",
+        "Country_Code":"hu"
+    },
+    {
+        "Country_Name":"Iceland",
+        "Currency_Name":"Icelandic króna",
+        "Currency_Symbol":"kr",
+        "ISO_code":"ISK",
+        "Fractional_unit":"Eyrir",
+        "Country_Code":"is"
+    },
+    {
+        "Country_Name":"India",
+        "Currency_Name":"Indian rupee",
+        "Currency_Symbol":"?",
+        "ISO_code":"INR",
+        "Fractional_unit":"Paisa",
+        "Country_Code":"in"
+    },
+    {
+        "Country_Name":"Indonesia",
+        "Currency_Name":"Indonesian rupiah",
+        "Currency_Symbol":"Rp",
+        "ISO_code":"IDR",
+        "Fractional_unit":"Sen",
+        "Country_Code":"id"
+    },
+    {
+        "Country_Name":"Isle of Man",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":"im"
+    },
+    {
+        "Country_Name":"Israel",
+        "Currency_Name":"Israeli new shekel",
+        "Currency_Symbol":"?",
+        "ISO_code":"ILS",
+        "Fractional_unit":"Agora",
+        "Country_Code":"il"
+    },
+    {
+        "Country_Name":"Japan",
+        "Currency_Name":"Japanese yen",
+        "Currency_Symbol":"¥",
+        "ISO_code":"JPY",
+        "Fractional_unit":"Sen",
+        "Country_Code":"jp"
+    },
+    {
+        "Country_Name":"Jersey",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":"je"
+    },
+    {
+        "Country_Name":"Kiribati",
+        "Currency_Name":"Australian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"AUD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"ki"
+    },
+    {
+        "Country_Name":"Korea, South",
+        "Currency_Name":"South Korean won",
+        "Currency_Symbol":"?",
+        "ISO_code":"KRW",
+        "Fractional_unit":"Jeon",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Liechtenstein",
+        "Currency_Name":"Swiss franc",
+        "Currency_Symbol":"Fr",
+        "ISO_code":"CHF",
+        "Fractional_unit":"Rappen",
+        "Country_Code":"li"
+    },
+    {
+        "Country_Name":"Malaysia",
+        "Currency_Name":"Malaysian ringgit",
+        "Currency_Symbol":"RM",
+        "ISO_code":"MYR",
+        "Fractional_unit":"Sen",
+        "Country_Code":"my"
+    },
+    {
+        "Country_Name":"Marshall Islands",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"mh"
+    },
+    {
+        "Country_Name":"Mexico",
+        "Currency_Name":"Mexican peso",
+        "Currency_Symbol":"$",
+        "ISO_code":"MXN",
+        "Fractional_unit":"Centavo",
+        "Country_Code":"mx"
+    },
+    {
+        "Country_Name":"Micronesia",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Nauru",
+        "Currency_Name":"Australian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"AUD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"nr"
+    },
+    {
+        "Country_Name":"New Zealand",
+        "Currency_Name":"New Zealand dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"NZD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"nz"
+    },
+    {
+        "Country_Name":"Niue",
+        "Currency_Name":"New Zealand dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"NZD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"nu"
+    },
+    {
+        "Country_Name":"Northern Cyprus",
+        "Currency_Name":"Turkish lira",
+        "Currency_Symbol":null,
+        "ISO_code":"TRY",
+        "Fractional_unit":"Kuru?",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Norway",
+        "Currency_Name":"Norwegian krone",
+        "Currency_Symbol":"kr",
+        "ISO_code":"NOK",
+        "Fractional_unit":"Øre",
+        "Country_Code":"no"
+    },
+    {
+        "Country_Name":"Palau",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"pw"
+    },
+    {
+        "Country_Name":"Palestine",
+        "Currency_Name":"Israeli new shekel",
+        "Currency_Symbol":"?",
+        "ISO_code":"ILS",
+        "Fractional_unit":"Agora",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Philippines",
+        "Currency_Name":"Philippine peso",
+        "Currency_Symbol":"?",
+        "ISO_code":"PHP",
+        "Fractional_unit":"Centavo",
+        "Country_Code":"ph"
+    },
+    {
+        "Country_Name":"Pitcairn Islands",
+        "Currency_Name":"New Zealand dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"NZD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Poland",
+        "Currency_Name":"Polish z?oty",
+        "Currency_Symbol":"z?",
+        "ISO_code":"PLN",
+        "Fractional_unit":"Grosz",
+        "Country_Code":"pl"
+    },
+    {
+        "Country_Name":"Romania",
+        "Currency_Name":"Romanian leu",
+        "Currency_Symbol":"lei",
+        "ISO_code":"RON",
+        "Fractional_unit":"Ban",
+        "Country_Code":"ro"
+    },
+    {
+        "Country_Name":"Russia",
+        "Currency_Name":"Russian ruble",
+        "Currency_Symbol":null,
+        "ISO_code":"RUB",
+        "Fractional_unit":"Kopek",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Saba",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Sint Eustatius",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"South Africa",
+        "Currency_Name":"South African rand",
+        "Currency_Symbol":"R",
+        "ISO_code":"ZAR",
+        "Fractional_unit":"Cent",
+        "Country_Code":"za"
+    },
+    {
+        "Country_Name":"South Georgia and the South Sandwich Islands",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":"gs"
+    },
+    {
+        "Country_Name":"South Ossetia",
+        "Currency_Name":"Russian ruble",
+        "Currency_Symbol":null,
+        "ISO_code":"RUB",
+        "Fractional_unit":"Kopek",
+        "Country_Code":""
+    },
+    {
+        "Country_Name":"Sweden",
+        "Currency_Name":"Swedish krona",
+        "Currency_Symbol":"kr",
+        "ISO_code":"SEK",
+        "Fractional_unit":"Öre",
+        "Country_Code":"se"
+    },
+    {
+        "Country_Name":"Switzerland",
+        "Currency_Name":"Swiss franc",
+        "Currency_Symbol":"Fr",
+        "ISO_code":"CHF",
+        "Fractional_unit":"Rappen",
+        "Country_Code":"ch"
+    },
+    {
+        "Country_Name":"Thailand",
+        "Currency_Name":"Thai baht",
+        "Currency_Symbol":"?",
+        "ISO_code":"THB",
+        "Fractional_unit":"Satang",
+        "Country_Code":"th"
+    },
+    {
+        "Country_Name":"Turkey",
+        "Currency_Name":"Turkish lira",
+        "Currency_Symbol":null,
+        "ISO_code":"TRY",
+        "Fractional_unit":"Kuru?",
+        "Country_Code":"tr"
+    },
+    {
+        "Country_Name":"Turks and Caicos Islands",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"tc"
+    },
+    {
+        "Country_Name":"Tuvalu",
+        "Currency_Name":"Australian dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"AUD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"tv"
+    },
+    {
+        "Country_Name":"United Kingdom",
+        "Currency_Name":"British pound",
+        "Currency_Symbol":"£",
+        "ISO_code":"GBP",
+        "Fractional_unit":"Penny",
+        "Country_Code":"gb"
+    },
+    {
+        "Country_Name":"United States",
+        "Currency_Name":"United States dollar",
+        "Currency_Symbol":"$",
+        "ISO_code":"USD",
+        "Fractional_unit":"Cent",
+        "Country_Code":"us"
+    }
+]
