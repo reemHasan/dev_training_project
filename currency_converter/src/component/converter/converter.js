@@ -85,12 +85,12 @@ class Converter extends React.Component {
         <div class="col-10 col-md-8 col-lg-6">
         <Form>
           <div classNmae="title">
-           <h2>
+           <h1>
             <span>Currency</span>Converter
             <span role="img" aria-label="money">
             &#x1f4b5;
             </span>
-           </h2>
+           </h1>
           </div>
           <br/>
          <Form.Group controlId="exampleForm.ControlInput1">
@@ -127,16 +127,17 @@ class Converter extends React.Component {
                  }
            </Form.Control>
          </Form.Group>
-         <div>
+        <div>
          <Button className="button" onClick={this.convertHandler}>Convert</Button>
            <br/>
            <br/>
-         {this.state.result && <div className="divConvert">
+           {this.state.result && <div className="divConvert">
           <h5> 1 {this.state.fromCurrency} is equal to {this.state.oneUnit} {this.state.toCurrency}</h5>
           <br />
-          <h3>The result of converted amount is <span>{this.state.result}</span></h3>
-         </div>}
+          <h4>The result of converted amount is <span>{this.state.result}</span></h4>
+           </div>}
         </div>
+        <p class="copyright">&copy; Currency Converter supplied by <a href="https://api.exchangeratesapi.io">Foreign exchange rates API</a>.</p>
       </Form>
       {/*Form end */}
         </div>
