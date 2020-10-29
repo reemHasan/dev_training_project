@@ -5,9 +5,10 @@
   "dependencies": {
     "axios": "^0.18.0",
     "bootstrap": "^4.5.3",
+    "package": "^1.0.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
-    "react-scripts": "2.1.2",
+    "react-scripts": "^4.0.0",
     "reactstrap": "^8.6.0"
   },
   "scripts": {
