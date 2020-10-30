@@ -87,67 +87,68 @@ class Converter extends React.Component {
   render() {
     return (
       <div class="container h-100">
-    <div class="row h-100 justify-content-center align-items-center">
-        <div class="col-10 col-md-8 col-lg-6">
-        <Form>
+        <div class="row justify-content-center align-items-center">
           <div style={styles.textCenter}>
-           <h1 style={styles.title}>
-            <span>Currency</span>Converter
-            <span role="img" aria-label="money">
-            &#x1f4b5;
-            </span>
-           </h1>
+            <h1 style={styles.title}>
+              <span>Currency</span>Converter
+              <span role="img" aria-label="money">
+              &#x1f4b5;
+              </span>
+            </h1>
           </div>
-          <br/>
-         <Form.Group controlId="exampleForm.ControlInput1">
-           <Form.Label>Amount </Form.Label>
-           <Form.Control type="text" placeholder="Enter amount here"          
-           name="amount"
-          onChange={event => this.setState({ amount: event.target.value })}/>
-         </Form.Group>
-
-         <Form.Group controlId="exampleForm.ControlSelect1">
-           <Form.Label >Source Currency</Form.Label>
-           <Form.Control as="select" name="from" 
-           onChange={event => this.selectHandler(event)}
-           value={this.state.fromCurrency}
-           >
-           {
-               this.state.currencies.map((option, index) => {
-                return (<option key={index} value={option.value}>{option.value}</option>)
-                  })
-                 }
-           </Form.Control>
-         </Form.Group>
-
-         <Form.Group controlId="exampleForm.ControlSelect2">
-           <Form.Label >Distination Currency</Form.Label>
-           <Form.Control as="select" name='to'
-           onChange={event => this.selectHandler(event)}
-           value={this.state.toCurrency}
-           >
-           {
-               this.state.currencies.map((option, index) => {
-                return (<option key={index} value={option.value}>{option.value}</option>)
-                  })
-                 }
-           </Form.Control>
-         </Form.Group>
-        <div>
-         <Button className="button" onClick={this.convertHandler}>Convert</Button>
-           <br/>
-           <br/>
-           {this.state.result && <div className="divConvert">
-          <h5> 1 {this.state.fromCurrency} is equal to {this.state.oneUnit} {this.state.toCurrency}</h5>
-          <br />
-          <h4>The result of converted amount is <span>{this.state.result}</span></h4>
-           </div>}
         </div>
-        <p class="copyright">&copy; Currency Converter supplied by <a href="https://api.exchangeratesapi.io">Foreign exchange rates API</a>.</p>
-      </Form>
-      {/*Form end */}
-        </div>
-    </div>
+        <br/>
+        <Form>
+          <Form.Row className="justify-content-center">
+              <Form.Label>Amount </Form.Label>
+          </Form.Row>
+          <Form.Row className="justify-content-center">
+              <Form.Control type="text" placeholder="Enter amount here"          
+                name="amount"
+                onChange={event => this.setState({ amount: event.target.value })}/>
+          </Form.Row>
+          <Form.Row className="justify-content-center">
+              <Form.Label >Source Currency</Form.Label>
+          </Form.Row>
+          <Form.Row className="justify-content-center">
+              <Form.Control as="select" name="from" 
+                onChange={event => this.selectHandler(event)}
+                value={this.state.fromCurrency}
+                >
+                {
+                  this.state.currencies.map((option, index) => {
+                    return (<option key={index} value={option.value}>{option.value}</option>)
+                  })
+                }
+              </Form.Control>
+          </Form.Row>
+          <Form.Row className="justify-content-center">
+              <Form.Label >Distination Currency</Form.Label>
+          </Form.Row>
+          <Form.Row className="justify-content-center">
+              <Form.Control as="select" name='to'
+              onChange={event => this.selectHandler(event)}
+              value={this.state.toCurrency}
+              >
+              {
+                this.state.currencies.map((option, index) => {
+                  return (<option key={index} value={option.value}>{option.value}</option>)
+                })
+              }
+              </Form.Control>
+          </Form.Row>
+          <div className="row justify-content-center">
+          <Button className="button" onClick={this.convertHandler}>Convert</Button>
+            <br/>
+            <br/>
+            {this.state.result && <div className="divConvert">
+            <h5> 1 {this.state.fromCurrency} is equal to {this.state.oneUnit} {this.state.toCurrency}</h5>
+            <br />
+            <h4>The result of converted amount is <span>{this.state.result}</span></h4>
+            </div>}
+          </div>
+        </Form>
+      <p class="copyright">&copy; Currency Converter supplied by <a href="https://api.exchangeratesapi.io">Foreign exchange rates API</a>.</p>
 </div>
 
     );
