@@ -4,6 +4,15 @@ import "./converter.css";
 import { Button} from 'reactstrap'
 import {FormControl,Form} from 'react-bootstrap'
 
+const styles = {
+  "textCenter" : {
+    textAlign:"center"    
+  },
+  "title": {
+    fontSize:"2rem"
+  }
+};
+
 class Converter extends React.Component {
   constructor(props) {
     super(props);
@@ -81,8 +90,8 @@ class Converter extends React.Component {
     <div class="row h-100 justify-content-center align-items-center">
         <div class="col-10 col-md-8 col-lg-6">
         <Form>
-          <div classNmae="title">
-           <h1>
+          <div style={styles.textCenter}>
+           <h1 style={styles.title}>
             <span>Currency</span>Converter
             <span role="img" aria-label="money">
             &#x1f4b5;
