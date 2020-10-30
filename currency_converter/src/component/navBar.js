@@ -6,7 +6,7 @@ class NavigatBar extends Component {
 render() {
 return (
 <div>
-<Navbar bg="dark" variant="dark">
+<Navbar expand="lg" bg="dark" variant="dark">
     <Navbar.Brand to="/">CurrencyConveter</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
