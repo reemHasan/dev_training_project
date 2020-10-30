@@ -33,7 +33,7 @@
         "ISO_code":"BRL",
         "Fractional_unit":"Centavo",
         "Country_Code":"br",
-        "flag_source":".\/images\/br.png"
+        "flag_source":"\/imgs\/br.png"
     },
     {
         "Country_Name":"British Indian Ocean Territory",
@@ -42,7 +42,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"io",
-        "flag_source":".\/images\/io.png"
+        "flag_source":"\/imgs\/io.png"
     },
     {
         "Country_Name":"British Virgin Islands",
@@ -60,7 +60,7 @@
         "ISO_code":"BGN",
         "Fractional_unit":"Stotinka",
         "Country_Code":"bg",
-        "flag_source":".\/images\/bg.png"
+        "flag_source":"\/imgs\/bg.png"
     },
     {
         "Country_Name":"Canada",
@@ -69,7 +69,7 @@
         "ISO_code":"CAD",
         "Fractional_unit":"Cent",
         "Country_Code":"ca",
-        "flag_source":".\/images\/ca.png"
+        "flag_source":"\/imgs\/ca.png"
     },
     {
         "Country_Name":"China",
@@ -78,7 +78,7 @@
         "ISO_code":"CNY",
         "Fractional_unit":"Fen",
         "Country_Code":"cn",
-        "flag_source":".\/images\/cn.png"
+        "flag_source":"\/imgs\/cn.png"
     },
     {
         "Country_Name":"Cocos (Keeling) Islands",
@@ -87,7 +87,7 @@
         "ISO_code":"AUD",
         "Fractional_unit":"Cent",
         "Country_Code":"cc",
-        "flag_source":".\/images\/cc.png"
+        "flag_source":"\/imgs\/cc.png"
     },
     {
         "Country_Name":"Cook Islands",
@@ -96,7 +96,7 @@
         "ISO_code":"NZD",
         "Fractional_unit":"Cent",
         "Country_Code":"ck",
-        "flag_source":".\/images\/ck.png"
+        "flag_source":"\/imgs\/ck.png"
     },
     {
         "Country_Name":"Croatia",
@@ -114,7 +114,7 @@
         "ISO_code":"CZK",
         "Fractional_unit":"Halé?",
         "Country_Code":"cz",
-        "flag_source":".\/images\/cz.png"
+        "flag_source":"\/imgs\/cz.png"
     },
     {
         "Country_Name":"Denmark",
@@ -123,7 +123,7 @@
         "ISO_code":"DKK",
         "Fractional_unit":"Øre",
         "Country_Code":"dk",
-        "flag_source":".\/images\/dk.png"
+        "flag_source":"\/imgs\/dk.png"
     },
     {
         "Country_Name":"East Timor",
@@ -141,7 +141,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"ec",
-        "flag_source":".\/images\/ec.png"
+        "flag_source":"\/imgs\/ec.png"
     },
     {
         "Country_Name":"El Salvador",
@@ -150,7 +150,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"sv",
-        "flag_source":".\/images\/sv.png"
+        "flag_source":"\/imgs\/sv.png"
     },
     {
         "Country_Name":"Faroe Islands",
@@ -159,7 +159,7 @@
         "ISO_code":"DKK",
         "Fractional_unit":"Øre",
         "Country_Code":"fo",
-        "flag_source":".\/images\/fo.png"
+        "flag_source":"\/imgs\/fo.png"
     },
     {
         "Country_Name":"Guernsey",
@@ -177,7 +177,7 @@
         "ISO_code":"HKD",
         "Fractional_unit":"Cent",
         "Country_Code":"hk",
-        "flag_source":".\/images\/hk.png"
+        "flag_source":"\/imgs\/hk.png"
     },
     {
         "Country_Name":"Hungary",
@@ -186,7 +186,7 @@
         "ISO_code":"HUF",
         "Fractional_unit":"Fillér",
         "Country_Code":"hu",
-        "flag_source":".\/images\/hu.png"
+        "flag_source":"\/imgs\/hu.png"
     },
     {
         "Country_Name":"Iceland",
@@ -195,7 +195,7 @@
         "ISO_code":"ISK",
         "Fractional_unit":"Eyrir",
         "Country_Code":"is",
-        "flag_source":".\/images\/is.png"
+        "flag_source":"\/imgs\/is.png"
     },
     {
         "Country_Name":"India",
@@ -204,7 +204,7 @@
         "ISO_code":"INR",
         "Fractional_unit":"Paisa",
         "Country_Code":"in",
-        "flag_source":".\/images\/in.png"
+        "flag_source":"\/imgs\/in.png"
     },
     {
         "Country_Name":"Indonesia",
@@ -213,7 +213,7 @@
         "ISO_code":"IDR",
         "Fractional_unit":"Sen",
         "Country_Code":"id",
-        "flag_source":".\/images\/id.png"
+        "flag_source":"\/imgs\/id.png"
     },
     {
         "Country_Name":"Isle of Man",
@@ -231,7 +231,7 @@
         "ISO_code":"ILS",
         "Fractional_unit":"Agora",
         "Country_Code":"il",
-        "flag_source":".\/images\/il.png"
+        "flag_source":"\/imgs\/il.png"
     },
     {
         "Country_Name":"Japan",
@@ -240,7 +240,7 @@
         "ISO_code":"JPY",
         "Fractional_unit":"Sen",
         "Country_Code":"jp",
-        "flag_source":".\/images\/jp.png"
+        "flag_source":"\/imgs\/jp.png"
     },
     {
         "Country_Name":"Jersey",
@@ -258,7 +258,7 @@
         "ISO_code":"AUD",
         "Fractional_unit":"Cent",
         "Country_Code":"ki",
-        "flag_source":".\/images\/ki.png"
+        "flag_source":"\/imgs\/ki.png"
     },
     {
         "Country_Name":"Korea, South",
@@ -276,7 +276,7 @@
         "ISO_code":"CHF",
         "Fractional_unit":"Rappen",
         "Country_Code":"li",
-        "flag_source":".\/images\/li.png"
+        "flag_source":"\/imgs\/li.png"
     },
     {
         "Country_Name":"Malaysia",
@@ -285,7 +285,7 @@
         "ISO_code":"MYR",
         "Fractional_unit":"Sen",
         "Country_Code":"my",
-        "flag_source":".\/images\/my.png"
+        "flag_source":"\/imgs\/my.png"
     },
     {
         "Country_Name":"Marshall Islands",
@@ -294,7 +294,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"mh",
-        "flag_source":".\/images\/mh.png"
+        "flag_source":"\/imgs\/mh.png"
     },
     {
         "Country_Name":"Mexico",
@@ -303,7 +303,7 @@
         "ISO_code":"MXN",
         "Fractional_unit":"Centavo",
         "Country_Code":"mx",
-        "flag_source":".\/images\/mx.png"
+        "flag_source":"\/imgs\/mx.png"
     },
     {
         "Country_Name":"Micronesia",
@@ -321,7 +321,7 @@
         "ISO_code":"AUD",
         "Fractional_unit":"Cent",
         "Country_Code":"nr",
-        "flag_source":".\/images\/nr.png"
+        "flag_source":"\/imgs\/nr.png"
     },
     {
         "Country_Name":"New Zealand",
@@ -330,7 +330,7 @@
         "ISO_code":"NZD",
         "Fractional_unit":"Cent",
         "Country_Code":"nz",
-        "flag_source":".\/images\/nz.png"
+        "flag_source":"\/imgs\/nz.png"
     },
     {
         "Country_Name":"Niue",
@@ -339,7 +339,7 @@
         "ISO_code":"NZD",
         "Fractional_unit":"Cent",
         "Country_Code":"nu",
-        "flag_source":".\/images\/nu.png"
+        "flag_source":"\/imgs\/nu.png"
     },
     {
         "Country_Name":"Northern Cyprus",
@@ -357,7 +357,7 @@
         "ISO_code":"NOK",
         "Fractional_unit":"Øre",
         "Country_Code":"no",
-        "flag_source":".\/images\/no.png"
+        "flag_source":"\/imgs\/no.png"
     },
     {
         "Country_Name":"Palau",
@@ -366,7 +366,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"pw",
-        "flag_source":".\/images\/pw.png"
+        "flag_source":"\/imgs\/pw.png"
     },
     {
         "Country_Name":"Palestine",
@@ -384,7 +384,7 @@
         "ISO_code":"PHP",
         "Fractional_unit":"Centavo",
         "Country_Code":"ph",
-        "flag_source":".\/images\/ph.png"
+        "flag_source":"\/imgs\/ph.png"
     },
     {
         "Country_Name":"Pitcairn Islands",
@@ -402,7 +402,7 @@
         "ISO_code":"PLN",
         "Fractional_unit":"Grosz",
         "Country_Code":"pl",
-        "flag_source":".\/images\/pl.png"
+        "flag_source":"\/imgs\/pl.png"
     },
     {
         "Country_Name":"Romania",
@@ -411,7 +411,7 @@
         "ISO_code":"RON",
         "Fractional_unit":"Ban",
         "Country_Code":"ro",
-        "flag_source":".\/images\/ro.png"
+        "flag_source":"\/imgs\/ro.png"
     },
     {
         "Country_Name":"Russia",
@@ -447,7 +447,7 @@
         "ISO_code":"ZAR",
         "Fractional_unit":"Cent",
         "Country_Code":"za",
-        "flag_source":".\/images\/za.png"
+        "flag_source":"\/imgs\/za.png"
     },
     {
         "Country_Name":"South Georgia and the South Sandwich Islands",
@@ -456,7 +456,7 @@
         "ISO_code":"GBP",
         "Fractional_unit":"Penny",
         "Country_Code":"gs",
-        "flag_source":".\/images\/gs.png"
+        "flag_source":"\/imgs\/gs.png"
     },
     {
         "Country_Name":"South Ossetia",
@@ -474,7 +474,7 @@
         "ISO_code":"SEK",
         "Fractional_unit":"Öre",
         "Country_Code":"se",
-        "flag_source":".\/images\/se.png"
+        "flag_source":"\/imgs\/se.png"
     },
     {
         "Country_Name":"Switzerland",
@@ -483,7 +483,7 @@
         "ISO_code":"CHF",
         "Fractional_unit":"Rappen",
         "Country_Code":"ch",
-        "flag_source":".\/images\/ch.png"
+        "flag_source":"\/imgs\/ch.png"
     },
     {
         "Country_Name":"Thailand",
@@ -492,7 +492,7 @@
         "ISO_code":"THB",
         "Fractional_unit":"Satang",
         "Country_Code":"th",
-        "flag_source":".\/images\/th.png"
+        "flag_source":"\/imgs\/th.png"
     },
     {
         "Country_Name":"Turkey",
@@ -501,7 +501,7 @@
         "ISO_code":"TRY",
         "Fractional_unit":"Kuru?",
         "Country_Code":"tr",
-        "flag_source":".\/images\/tr.png"
+        "flag_source":"\/imgs\/tr.png"
     },
     {
         "Country_Name":"Turks and Caicos Islands",
@@ -510,7 +510,7 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"tc",
-        "flag_source":".\/images\/tc.png"
+        "flag_source":"\/imgs\/tc.png"
     },
     {
         "Country_Name":"Tuvalu",
@@ -519,7 +519,7 @@
         "ISO_code":"AUD",
         "Fractional_unit":"Cent",
         "Country_Code":"tv",
-        "flag_source":".\/images\/tv.png"
+        "flag_source":"\/imgs\/tv.png"
     },
     {
         "Country_Name":"United Kingdom",
@@ -528,7 +528,7 @@
         "ISO_code":"GBP",
         "Fractional_unit":"Penny",
         "Country_Code":"gb",
-        "flag_source":".\/images\/gb.png"
+        "flag_source":"\/imgs\/gb.png"
     },
     {
         "Country_Name":"United States",
@@ -537,6 +537,6 @@
         "ISO_code":"USD",
         "Fractional_unit":"Cent",
         "Country_Code":"us",
-        "flag_source":".\/images\/us.png"
+        "flag_source":"\/imgs\/us.png"
     }
 ]
