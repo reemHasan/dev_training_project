@@ -28,8 +28,7 @@ class CurrenciesList extends React.Component {
             //this.setState({ image_source: currency.flag_source });
             return (
             <tr>
-                {/*<td><Image src={require(this.state.image_source)}/></td>*/}
-                <td><Image src={require('./images/fr.png')}/></td>
+                <td><Image src={'${process.env.PUBLIC_URL}',currency.flag_source}/></td>
                 <td>{currency.Country_Name.toString('utf8')}</td>
                 <td>{currency.Currency_Name}</td>
                 <td>{currency.Currency_Symbol.toString('utf8')}</td>
@@ -44,7 +43,7 @@ class CurrenciesList extends React.Component {
             
       <div class="container">
           <div>
-              <h1>List of supported currencies and thier coutries</h1>
+              <h1>List of supported currencies and their countries</h1>
           </div>
         <div class="row">
         <div class="col-10">

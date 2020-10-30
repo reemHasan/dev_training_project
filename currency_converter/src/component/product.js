@@ -32,12 +32,12 @@ class Product extends React.Component {
             <div>
                 <h3>{label}</h3>
                 <a href={link}></a>
-                <table class="table">
+                <table class="table" striped bordered hover variant="dark">
                     <thead class="thead-dark">
                         <tr>
-                        <th scope="col">Code</th>
+                        <th scope="col">Currency Code</th>
                         <th scope="col">Website Price</th>
-                        <th scope="col">Conversion Price</th>
+                        <th scope="col">Converted price (currencies to EUR)</th>
                         </tr>
                     </thead>
                     <tbody>
