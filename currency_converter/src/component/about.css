@@ -1,7 +1,12 @@
-.title{
+.card-header{
     font-size: 150%;
     font-weight: bold;
-    color:#008000;
+    color:#008040;
     font-style: italic;
-    padding:10px;
+    margin:5%!important;
+    background-color:#4b4b4b !important;
+}
+
+.card-footer{
+    background-color:#4b4b4b !important;  
 }
