@@ -1,3 +1,3 @@
 # dev_training_project
 
-je sais commit bravo ... haha 
+Different traninig project by using react native
